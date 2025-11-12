@@ -15,9 +15,8 @@ This section details the primary purpose and general usage of the module.
 
 How to get this running locally.
 
-1. Clone the repository: `git clone [URL]`
+1. Clone the repository: `git clone https://github.com/lilyfurn/markdown.git`
 2. Navigate to the directory: `cd [project-name]`
-3. Install dependencies: `npm install`
 
 ## 💡 Usage (H2)
 
