@@ -21,13 +21,3 @@ How to get this running locally.
 ## 💡 Usage (H2)
 
 Examples of how to use the code or feature described.
-
-### Example Function (H3)
-
-Here's how to call the main function:
-
-```javascript
-import { mainFunction } from './moduleFile';
-
-const result = mainFunction(true, 'hello');
-console.log(result); // Expected output: something
